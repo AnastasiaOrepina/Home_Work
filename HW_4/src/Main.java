@@ -3,19 +3,19 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        //printThreeWords(); //1
-        //checkSumSign(); //2
-        //printColor(); //3
-        //compareNumbers(); //4
-        //checkSumPositive(); //5
-        //checkNumberPositive(); //6
-        //checkNumberPositiveTrue(); //7
-        //printString("Hello", 4); //8
-        //checkLeapYear(); //9
-        //arrayChangeOneNull(); //10
-        //arrayFill(); //11
-        //arrayMultiplySix(); //12
-        //createArrayDiagonal(5, 5); //13
+        printThreeWords(); //1
+        checkSumSign(); //2
+        printColor(); //3
+        compareNumbers(); //4
+        checkSumPositive(); //5
+        checkNumberPositive(); //6
+        checkNumberPositiveTrue(); //7
+        printString("Hello", 4); //8
+        checkLeapYear(); //9
+        arrayChangeOneNull(); //10
+        arrayFill(); //11
+        arrayMultiplySix(); //12
+        createArrayDiagonal(5, 5); //13
         createArray(6, 2); //14
     }
 
